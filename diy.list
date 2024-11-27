@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,laowang.vip
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,hbfile.net
+IP-CIDR,221.228.32.13/32,Proxy
