@@ -1,5 +1,6 @@
   # > Speedtest by Ookla
   # - USER-AGENT,SpeedTest*
+  - DOMAIN-KEYWORD,speedtest
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-KEYWORD,ookla-speedtest-central
   - DOMAIN-SUFFIX,ooklaserver.net
