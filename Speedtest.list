@@ -1,0 +1,5 @@
+  # > Speedtest by Ookla
+  # - USER-AGENT,SpeedTest*
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN,speed.dler.io
