@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,fortnitetracker.com
 DOMAIN-SUFFIX,siemens.com
+DOMAIN,api.liquidlink.cn
 IP-CIDR,221.228.32.13/32
 IP-CIDR,180.109.0.221/32
 DOMAIN-KEYWORD,emby
