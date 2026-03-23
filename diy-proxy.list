@@ -1,8 +1,9 @@
 DOMAIN-SUFFIX,fortnitetracker.com
 DOMAIN-SUFFIX,siemens.com
 DOMAIN,api.liquidlink.cn
-IP-CIDR,221.228.32.13/32
-IP-CIDR,180.109.0.221/32
+IP-CIDR,221.228.32.13/32,no-resolve
+IP-CIDR,61.160.148.90/32,no-resolve
+IP-CIDR,180.109.0.221/32,no-resolve
 DOMAIN-KEYWORD,pimeyes
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-KEYWORD,xsijishe
